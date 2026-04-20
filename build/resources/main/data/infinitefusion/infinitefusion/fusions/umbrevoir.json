@@ -1,0 +1,14 @@
+{
+  "id": "umbreon_to_gardevoir",
+  "donor": { "species": "cobblemon:umbreon" },
+  "host": { "species": "cobblemon:gardevoir" },
+  "result": {
+    "species": "cobblemon:gardevoir",
+    "form": "umbrevoir",
+    "aspects": ["umbrevoir"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

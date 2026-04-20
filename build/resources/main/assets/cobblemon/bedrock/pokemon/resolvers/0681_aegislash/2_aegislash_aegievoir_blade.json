@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:aegislash",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["aegievoir","shield-forme"],
+      "poser": "cobblemon:gardevoir_aegievoir",
+      "model": "cobblemon:gardevoir_aegievoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": [ "aegievoir","shield-forme","shiny" ],
+      "poser": "cobblemon:gardevoir_aegievoir",
+      "model": "cobblemon:gardevoir_aegievoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir_emissive.png"
+        }
+      ]
+    }
+  ]
+}

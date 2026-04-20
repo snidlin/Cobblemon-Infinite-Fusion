@@ -1,0 +1,58 @@
+{
+  "species": "cobblemon:rayquaza",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["rayevoir"],
+      "poser": "cobblemon:gardevoir_rayevoir",
+      "model": "cobblemon:gardevoir_rayevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/rayevoir/gardevoir_rayevoir.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+        "rayevoir",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/rayevoir/gardevoir_rayevoir_shiny.png",
+      "layers": [
+      ]
+    },
+    {
+      "aspects": [
+        "rayevoir",
+        "mega"
+      ],
+      "poser": "cobblemon:megarayquaza",
+      "model": "cobblemon:megarayquaza.geo",
+      "texture": "cobblemon:textures/pokemon/0384_rayquaza/megarayquaza.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0384_rayquaza/megarayquaza_emissive.png",
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "rayevoir",
+        "shiny",
+        "mega"
+      ],
+      "poser": "cobblemon:megarayquaza",
+      "model": "cobblemon:megarayquaza.geo",
+      "texture": "cobblemon:textures/pokemon/0384_rayquaza/megarayquaza_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0384_rayquaza/megarayquaza_emissive_shiny.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

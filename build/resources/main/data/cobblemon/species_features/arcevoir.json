@@ -1,0 +1,6 @@
+{
+    "keys": [ "arcevoir" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

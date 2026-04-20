@@ -1,0 +1,320 @@
+{
+  "species": "cobblemon:arceus",
+  "order": 99,
+  "variations": [
+    {
+      "aspects": ["arcevoir"],
+      "poser": "cobblemon:gardevoir_arcevoir",
+      "model": "cobblemon:gardevoir_arcevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive1.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "arcevoir",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "bug-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_bug.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_bug.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "dark-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_dark.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_dark.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "dragon-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_dragon.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_dragon.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "electric-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_electric.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_electric.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "fairy-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fairy.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fairy.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "fighting-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fighting.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fighting.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "fire-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fire.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fire.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "flying-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_flying.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_flying.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "ghost-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ghost.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ghost.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "grass-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_grass.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_grass.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "ground-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ground.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ground.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "ice-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ice.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ice.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "poison-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_poison.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_poison.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "psychic-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_psychic.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_psychic.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "rock-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_rock.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_rock.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "steel-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_steel.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_steel.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+      	"arcevoir",
+        "water-plate"
+      ],
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_water.png"
+        },
+        {
+          "name": "emissive2",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_water.png"
+        }
+      ]
+    }
+  ]
+}

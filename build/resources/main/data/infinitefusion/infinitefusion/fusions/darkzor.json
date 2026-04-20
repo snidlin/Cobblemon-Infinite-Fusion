@@ -1,0 +1,14 @@
+{
+  "id": "darkrai_to_scizor",
+  "donor": { "species": "cobblemon:darkrai" },
+  "host": { "species": "cobblemon:scizor" },
+  "result": {
+    "species": "cobblemon:scizor",
+    "form": "darkzor",
+    "aspects": ["darkzor"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

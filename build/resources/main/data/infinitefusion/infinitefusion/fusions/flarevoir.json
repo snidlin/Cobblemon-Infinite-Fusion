@@ -1,0 +1,14 @@
+{
+  "id": "flareon_to_gardevoir",
+  "donor": { "species": "cobblemon:flareon" },
+  "host": { "species": "cobblemon:gardevoir" },
+  "result": {
+    "species": "cobblemon:gardevoir",
+    "form": "flarevoir",
+    "aspects": ["flarevoir"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

@@ -1,0 +1,6 @@
+{
+    "keys": [ "vaporevoir" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

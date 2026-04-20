@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 8,
+  "variations": [
+    {
+      "aspects": ["joltevoir"],
+      "poser": "cobblemon:gardevoir_joltevoir",
+      "model": "cobblemon:gardevoir_joltevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/joltevoir/gardevoir_joltevoir.png"
+    },
+    {
+      "aspects": [ "joltevoir", "shiny" ],
+      "model": "cobblemon:gardevoir_joltevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/joltevoir/gardevoir_joltevoir_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GNG",
+    "RSR",
+    "GAD"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "N": { "item": "minecraft:netherite_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "S": { "item": "minecraft:shears" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "id": "infinitefusion:desplicer",
+    "count": 1
+  }
+}

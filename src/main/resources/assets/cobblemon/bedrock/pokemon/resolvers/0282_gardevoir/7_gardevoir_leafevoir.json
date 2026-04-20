@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 7,
+  "variations": [
+    {
+      "aspects": ["leafevoir"],
+      "poser": "cobblemon:gardevoir_leafevoir",
+      "model": "cobblemon:gardevoir_leafevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/leafevoir/gardevoir_leafevoir.png"
+    },
+    {
+      "aspects": [ "leafevoir", "shiny" ],
+      "model": "cobblemon:gardevoir_leafevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/leafevoir/gardevoir_leafevoir_shiny.png"
+    }
+  ]
+}

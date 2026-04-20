@@ -1,0 +1,6 @@
+{
+    "keys": [ "aegievoir" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

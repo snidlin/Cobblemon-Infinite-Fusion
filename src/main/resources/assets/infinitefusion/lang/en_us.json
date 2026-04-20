@@ -1,0 +1,12 @@
+{
+  "item.infinitefusion.splicer": "Fusion Splicer",
+  "item.infinitefusion.desplicer": "Desplicer",
+  "tooltip.infinitefusion.holding": "Holding: %s",
+  "message.infinitefusion.invalid_pair": "Huh, guess that one doesn't work...",
+  "message.infinitefusion.make_room": "Please make room to return the donor Pokemon to your party",
+  "message.infinitefusion.already_fused": "That Pokemon is already fused.",
+  "message.infinitefusion.loaded_splicer": "Loaded donor Pokemon into the Splicer.",
+  "message.infinitefusion.fused": "Fusion complete.",
+  "message.infinitefusion.unfused": "Fusion undone. The donor Pokemon is now stored in the Desplicer.",
+  "message.infinitefusion.returned_donor": "Returned donor Pokemon to your party."
+}

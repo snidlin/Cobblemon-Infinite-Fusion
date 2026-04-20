@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00ae9732-2ebe-4691-8d0a-2cdde439444b" name="Changes" comment="Initial commit; all information can be found in the README.md">
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.12/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/infinitefusion.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCHEMA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/DesplicerItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionDataHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionDefinition$MatchSpec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionDefinition$MoveRuleValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionDefinition$ResultSpec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionDefinition$RuleValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionDefinition$ValueMode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionRegistry$FusionKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionRegistry$LoadedRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/FusionRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/InfiniteFusionMod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/ModDataComponents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/ModItems.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/SplicerItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/StoredPokemon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/TransformationDefinition$IntegrationType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/magpie/infinitefusion/TransformationDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/gardevoir_fusions_dat.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/gardevoir_fusions_res.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/infinitefusion-0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/artifacts/neoforge-21.1.182-minecraft-merged.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/artifacts/neoforge-21.1.182-minecraft-resources-aka-client-extra.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/artifacts/neoforge-21.1.182-minecraft-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/artifacts/neoforge-21.1.182-minecraft.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/clientLegacyClasspath.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/clientLog4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/clientRunProgramArgs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/clientRunVmArgs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/minecraft_assets.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/nfrt_artifact_manifest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/serverLegacyClasspath.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/serverLog4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/serverRunProgramArgs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/moddev/serverRunVmArgs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/META-INF/neoforge.mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0212_scizor/scizor_darkzor.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_aegievoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_aegievoir2.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_arcevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_espevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_flarevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_glacevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_joltevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_leafevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_queen.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_rayevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_sylvevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_umbrevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_vaporevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0212_scizor/scizor_darkzor.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_aegievoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_aegievoir2.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_arcevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_espevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_flarevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_glacevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_joltevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_leafevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_queen.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_rayevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_sylvevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_umbrevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_vaporevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0212_scizor/scizor_darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_aegievoir2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_rayevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0212_scizor/3_scizor_darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/1_gardevoir_sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/2_gardevoir_espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/3_gardevoir_umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/4_gardevoir_flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/5_gardevoir_vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/6_gardevoir_glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/7_gardevoir_leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/8_gardevoir_joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/9_gardevoir_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0384_rayquaza/1_rayquaza_base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0493_arceus/99_gardevoir_arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0681_aegislash/2_aegislash_aegievoir_blade.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/bedrock/pokemon/resolvers/0681_aegislash/3_aegislash_aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/lang/zh_cn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/particles/fusion.particle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/sounds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/sounds/pokemon/gardevoir/gardevoir_cry.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/particle/fusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0212_scizor/darkzor/scizor_darkzor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0212_scizor/darkzor/scizor_darkzor_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0212_scizor/darkzor/scizor_darkzor_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_electric.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fairy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fighting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_flying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_steel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_electric.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fairy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fighting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_flying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_steel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/espevoir/gardevoir_espevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/espevoir/gardevoir_espevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/flarevoir/gardevoir_flarevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/flarevoir/gardevoir_flarevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/glacevoir/gardevoir_glacevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/glacevoir/gardevoir_glacevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/joltevoir/gardevoir_joltevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/joltevoir/gardevoir_joltevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/leafevoir/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/leafevoir/gardevoir_leafevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/leafevoir/gardevoir_leafevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen_mega.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen_mega_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/rayevoir/gardevoir_rayevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/rayevoir/gardevoir_rayevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/sylvevoir/gardevoir_sylvevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/sylvevoir/gardevoir_sylvevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_shiny_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/vaporevoir/gardevoir_vaporevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/cobblemon/textures/pokemon/0282_gardevoir/vaporevoir/gardevoir_vaporevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/infinitefusion/items/desplicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/infinitefusion/items/splicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/infinitefusion/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/infinitefusion/models/item/desplicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/infinitefusion/models/item/splicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/infinitefusion/textures/item/desplicer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/assets/infinitefusion/textures/item/splicer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/dex_entries/pokemon/hoenn/gardevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/dex_entries/pokemon/hoenn/rayquaza.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/dex_entries/pokemon/johto/scizor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/dex_entries/pokemon/sinnoh/arceus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_additions/generation2/scizor_darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_additions/generation3/gardevoir_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_additions/generation3/gardevoir_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_additions/generation3/kirlia_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_additions/generation3/rayquaza_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_additions/generation4/arceus_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_additions/generation6/aegislash_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/rayevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/cobblemon/species_features/vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/rayevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/fusions/vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/infinitefusion/transformations/rayevoir_mega.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/recipe/desplicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/data/infinitefusion/recipe/splicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/FusionDataHelper.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/InfiniteFusionMod.class.uniqueId3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ModDataComponents.class.uniqueId2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/ModItems.class.uniqueId1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/Cobblemon-neoforge-1.7.3+1.21.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/DesplicerItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/FusionDataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/FusionDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/FusionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/InfiniteFusionMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/ModDataComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/ModItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/SplicerItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/StoredPokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/magpie/infinitefusion/TransformationDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/neoforge.mods.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0212_scizor/scizor_darkzor.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_aegievoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_aegievoir2.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_arcevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_espevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_flarevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_glacevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_joltevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_leafevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_queen.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_rayevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_sylvevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_umbrevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/animations/0282_gardevoir/gardevoir_vaporevoir.animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0212_scizor/scizor_darkzor.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_aegievoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_aegievoir2.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_arcevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_espevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_flarevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_glacevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_joltevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_leafevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_queen.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_rayevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_sylvevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_umbrevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/gardevoir_vaporevoir.geo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/models/0282_gardevoir/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0212_scizor/scizor_darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_aegievoir2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_rayevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/posers/0282_gardevoir/gardevoir_vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0212_scizor/3_scizor_darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/1_gardevoir_sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/2_gardevoir_espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/3_gardevoir_umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/4_gardevoir_flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/5_gardevoir_vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/6_gardevoir_glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/7_gardevoir_leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/8_gardevoir_joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0282_gardevoir/9_gardevoir_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0384_rayquaza/1_rayquaza_base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0493_arceus/99_gardevoir_arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0681_aegislash/2_aegislash_aegievoir_blade.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/bedrock/pokemon/resolvers/0681_aegislash/3_aegislash_aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/lang/zh_cn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/particles/fusion.particle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/sounds.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/sounds/pokemon/gardevoir/gardevoir_cry.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/particle/fusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0212_scizor/darkzor/scizor_darkzor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0212_scizor/darkzor/scizor_darkzor_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0212_scizor/darkzor/scizor_darkzor_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/aegievoir/gardevoir_aegievoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_electric.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fairy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fighting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_flying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_steel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive2_water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_bug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_electric.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fairy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fighting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_flying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ghost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_ice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_steel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_emmisive_water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/arcevoir/gardevoir_arcevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/espevoir/gardevoir_espevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/espevoir/gardevoir_espevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/flarevoir/gardevoir_flarevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/flarevoir/gardevoir_flarevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/glacevoir/gardevoir_glacevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/glacevoir/gardevoir_glacevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/joltevoir/gardevoir_joltevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/joltevoir/gardevoir_joltevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/leafevoir/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/leafevoir/gardevoir_leafevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/leafevoir/gardevoir_leafevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen_mega.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen_mega_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/queen/gardevoir_queen_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/rayevoir/gardevoir_rayevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/rayevoir/gardevoir_rayevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/sylvevoir/gardevoir_sylvevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/sylvevoir/gardevoir_sylvevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_shiny_emissive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/vaporevoir/gardevoir_vaporevoir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/cobblemon/textures/pokemon/0282_gardevoir/vaporevoir/gardevoir_vaporevoir_shiny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/infinitefusion/items/desplicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/infinitefusion/items/splicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/infinitefusion/lang/en_us.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/infinitefusion/models/item/desplicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/infinitefusion/models/item/splicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/infinitefusion/textures/item/desplicer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/infinitefusion/textures/item/splicer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/dex_entries/pokemon/hoenn/gardevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/dex_entries/pokemon/hoenn/rayquaza.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/dex_entries/pokemon/johto/scizor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/dex_entries/pokemon/sinnoh/arceus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_additions/generation2/scizor_darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_additions/generation3/gardevoir_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_additions/generation3/gardevoir_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_additions/generation3/kirlia_queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_additions/generation3/rayquaza_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_additions/generation4/arceus_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_additions/generation6/aegislash_fusion.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/queen.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/rayevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/cobblemon/species_features/vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/aegievoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/arcevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/darkzor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/espevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/flarevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/glacevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/joltevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/leafevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/rayevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/sylvevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/umbrevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/fusions/vaporevoir.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/infinitefusion/transformations/rayevoir_mega.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/recipe/desplicer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/infinitefusion/recipe/splicer.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="infinitefusion" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="infinitefusion" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="infinitefusion" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Cb2yqltchAR7TpFohO5M8EXL8D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.infinitefusion_mod [build].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Warez/infinitefusion_mod/src/main/resources/data/infinitefusion/infinitefusion/recipes",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Warez\infinitefusion_mod\src\main\resources\data\infinitefusion\infinitefusion\recipes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.infinitefusion_mod [build]">
+    <configuration name="Client" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
+      <module name="infinitefusion.main" />
+      <option name="PROGRAM_PARAMETERS" value="@D:\\Warez\\infinitefusion_mod\\build\\moddev\\clientRunProgramArgs.txt" />
+      <option name="VM_PARAMETERS" value="@D:\\Warez\\infinitefusion_mod\\build\\moddev\\clientRunVmArgs.txt -Dfml.modFolders=infinitefusion%%D:\\Warez\\infinitefusion_mod\\build\\classes\\java\\main;infinitefusion%%D:\\Warez\\infinitefusion_mod\\build\\resources\\main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run/client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.neoforged.devlaunch.Main" />
+      <module name="infinitefusion.main" />
+      <option name="PROGRAM_PARAMETERS" value="@D:\\Warez\\infinitefusion_mod\\build\\moddev\\serverRunProgramArgs.txt" />
+      <option name="VM_PARAMETERS" value="@D:\\Warez\\infinitefusion_mod\\build\\moddev\\serverRunVmArgs.txt -Dfml.modFolders=infinitefusion%%D:\\Warez\\infinitefusion_mod\\build\\classes\\java\\main;infinitefusion%%D:\\Warez\\infinitefusion_mod\\build\\resources\\main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run/server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="infinitefusion_mod [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="infinitefusion_mod" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="infinitefusion_mod" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.infinitefusion_mod [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ae9732-2ebe-4691-8d0a-2cdde439444b" name="Changes" comment="" />
+      <created>1776640206651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776640206651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit; all information can be found in the README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit; all information can be found in the README.md" />
+  </component>
+</project>

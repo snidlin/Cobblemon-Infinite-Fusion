@@ -1,0 +1,21 @@
+{
+  "id": "rayevoir_mega",
+  "base_fusion": "gardevoir_to_rayquaza",
+  "result": {
+    "species": "cobblemon:rayquaza",
+    "form": "Rayevoir-Mega",
+    "aspects": ["rayevoir", "mega"]
+  },
+  "integration": {
+    "type": "mega_showdown",
+    "required": false
+  },
+  "trigger": {
+    "mode": "external",
+    "handler": "mega_showdown"
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

@@ -1,0 +1,6 @@
+{
+    "keys": [ "sylvevoir" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

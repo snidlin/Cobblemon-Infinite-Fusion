@@ -1,0 +1,14 @@
+{
+  "id": "gardevoir_to_arceus",
+  "donor": { "species": "cobblemon:gardevoir" },
+  "host": { "species": "cobblemon:arceus" },
+  "result": {
+    "species": "cobblemon:arceus",
+    "form": "arcevoir",
+    "aspects": ["arcevoir"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

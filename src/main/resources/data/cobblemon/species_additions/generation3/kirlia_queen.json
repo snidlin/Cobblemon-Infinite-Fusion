@@ -1,0 +1,22 @@
+{
+  "target": "cobblemon:kirlia",
+  "implemented": true,
+  "evolutions": [
+    {
+      "id": "kirlia_gardevoir queen",
+      "variant": "item_interact",
+      "result": "gardevoir queen",
+      "consumeHeldItem": true,
+      "learnableMoves": [
+        "sacredsword"
+      ],
+      "requirements": [
+        {
+          "variant": "properties",
+          "target": "gender=female"
+        }
+      ],
+      "requiredContext": "cobblemon:kings_rock"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 6,
+  "variations": [
+    {
+      "aspects": ["glacevoir"],
+      "poser": "cobblemon:gardevoir_glacevoir",
+      "model": "cobblemon:gardevoir_glacevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/glacevoir/gardevoir_glacevoir.png"
+    },
+    {
+      "aspects": [ "glacevoir", "shiny" ],
+      "model": "cobblemon:gardevoir_glacevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/glacevoir/gardevoir_glacevoir_shiny.png"
+    }
+  ]
+}

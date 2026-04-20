@@ -1,0 +1,6 @@
+{
+    "keys": [ "queen" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

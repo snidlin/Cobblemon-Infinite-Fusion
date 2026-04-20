@@ -1,0 +1,617 @@
+{
+  "implemented": true,
+  "target": "cobblemon:arceus",
+  "features": [
+	    "arcevoir"
+    ],
+  "forms": [
+    {
+      "name": "Arcevoir",
+      "primaryType": "normal",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir.desc"
+      ],
+      "labels": [
+        "gen4",
+        "arcevoir"
+      ],
+      "aspects": [
+        "arcevoir"
+      ],
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-Bug",
+      "primaryType": "bug",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-bug.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "bug-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-dark",
+      "primaryType": "bug",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-dark.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "dark-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-dragon",
+      "primaryType": "dragon",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-dragon.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "dragon-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-electric",
+      "primaryType": "electric",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-electric.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "electric-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-fairy",
+      "primaryType": "fairy",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-fairy.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "fairy-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-Fighting",
+      "primaryType": "fighting",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-fighting.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "fighting-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-fire",
+      "primaryType": "fire",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-fire.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "fire-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-flying",
+      "primaryType": "flying",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-flying.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "flying-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-ghost",
+      "primaryType": "ghost",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-ghost.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "ghost-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-grass",
+      "primaryType": "grass",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-grass.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "grass-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-ground",
+      "primaryType": "ground",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-ground.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "ground-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-ice",
+      "primaryType": "ice",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-ice.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "ice-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-poison",
+      "primaryType": "poison",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-poison.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "poison-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-psychic",
+      "primaryType": "psychic",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-psychic.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "psychic-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-rock",
+      "primaryType": "rock",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-rock.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "rock-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-steel",
+      "primaryType": "steel",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-steel.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "steel-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    },
+    {
+      "name": "Arevoir-water",
+      "primaryType": "water",
+      "maleRatio": -1,
+      "height": 16,
+      "weight": 484,
+      "hitbox": {
+      "width": 0.6,
+      "height": 2.2,
+      "fixed": false
+	    },
+      "pokedex": [
+        "cobblemon.species.arceus-arcevoir-water.desc"
+      ],
+      "labels": [
+        "gen4",
+        "mythical",
+        "arcevoir"
+      ],
+      "aspects": [
+        "water-plate",
+        "arcevoir"
+      ],
+      "evolutions": [],
+      "battleOnly": false,
+      "baseStats": {
+      "hp": 150,
+      "attack": 150,
+      "defence": 150,
+      "special_attack": 150,
+      "special_defence": 150,
+      "speed": 150
+      }
+    }
+  ]
+}

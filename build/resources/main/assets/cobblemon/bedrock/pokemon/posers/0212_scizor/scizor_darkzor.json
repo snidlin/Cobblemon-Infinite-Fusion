@@ -1,0 +1,40 @@
+{
+  "portraitScale": 1.6,
+  "portraitTranslation": [0, 2.4, 0],
+  "profileScale":  0.5,
+  "profileTranslation": [-0.1, 1.1, 0.0],
+  "rootBone": "scizor_darkzor",
+  "animations": {
+    "cry": "q.bedrock_stateful('scizor_darkzor', 'cry')",
+	"physical": "q.bedrock_primary('scizor_darkzor', 'physical', q.curve('symmetrical_wide'))",
+	"special": "q.bedrock_primary('scizor_darkzor', 'physical', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-idle": {
+      "poseName": "battle-idle",
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.look('head')", "q.bedrock('scizor_darkzor', 'battle_idle')"],
+	  "quirks": [
+        "q.bedrock_quirk('scizor_darkzor', 'blink')"
+		]
+    },
+    "standing": {
+      "poseName": "standing",
+      "poseTypes": ["STAND", "FLOAT", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.look('head')", "q.bedrock('scizor_darkzor', 'ground_idle')"],
+	  "quirks": [
+        "q.bedrock_quirk('scizor_darkzor', 'blink')"
+		]
+	  
+    },
+    "walking": {
+      "poseName": "walking",
+      "poseTypes": ["WALK"],
+      "animations": [
+        "q.bedrock('scizor_darkzor', 'ground_walk')"
+      ]
+    }
+  }
+}

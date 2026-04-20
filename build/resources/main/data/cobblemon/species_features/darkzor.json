@@ -1,0 +1,6 @@
+{
+    "keys": [ "darkzor" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

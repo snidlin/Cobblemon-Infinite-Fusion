@@ -1,0 +1,6 @@
+{
+    "keys": [ "leafevoir" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["umbrevoir"],
+      "poser": "cobblemon:gardevoir_umbrevoir",
+      "model": "cobblemon:gardevoir_umbrevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": [ "umbrevoir", "shiny" ],
+      "model": "cobblemon:gardevoir_umbrevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0282_gardevoir/umbrevoir/gardevoir_umbrevoir_shiny_emissive.png"
+        }
+      ]
+    }
+  ]
+}

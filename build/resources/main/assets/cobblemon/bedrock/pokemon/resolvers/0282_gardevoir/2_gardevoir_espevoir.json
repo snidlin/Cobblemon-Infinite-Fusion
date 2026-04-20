@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["espevoir"],
+      "poser": "cobblemon:gardevoir_espevoir",
+      "model": "cobblemon:gardevoir_espevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/espevoir/gardevoir_espevoir.png"
+    },
+    {
+      "aspects": [ "espevoir", "shiny" ],
+      "model": "cobblemon:gardevoir_espevoir.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/espevoir/gardevoir_espevoir_shiny.png"
+    }
+  ]
+}

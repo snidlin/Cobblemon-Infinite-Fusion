@@ -1,0 +1,14 @@
+{
+  "id": "jolteon_to_gardevoir",
+  "donor": { "species": "cobblemon:jolteon" },
+  "host": { "species": "cobblemon:gardevoir" },
+  "result": {
+    "species": "cobblemon:gardevoir",
+    "form": "joltevoir",
+    "aspects": ["joltevoir"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

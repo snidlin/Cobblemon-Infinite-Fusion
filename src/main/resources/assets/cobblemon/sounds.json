@@ -1,0 +1,62 @@
+  {
+    "pokemon.gardevoir_sylvevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_flarevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_espevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_umbrevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_vaporevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_glacevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_leafevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_joltevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_arcevoir.cry": {
+    "sounds": [ { "name": "cobblemon:pokemon/gardevoir/gardevoir_cry", "volume": 0.8 } ]
+    },
+    "pokemon.gardevoir_sylvevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_flarevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_espevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_umbrevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_vaporevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_glacevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_leafevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_joltevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_aegievoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_aegievoir2.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    },
+    "pokemon.gardevoir_arcevoir.ambient": {
+      "sounds": [ "cobblemon:pokemon/gardevoir/gardevoir_ambient" ]
+    }
+  }

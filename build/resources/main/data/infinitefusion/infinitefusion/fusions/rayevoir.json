@@ -1,0 +1,15 @@
+{
+  "id": "gardevoir_to_rayquaza",
+  "donor": { "species": "cobblemon:gardevoir" },
+  "host": { "species": "cobblemon:rayquaza" },
+  "result": {
+    "species": "cobblemon:rayquaza",
+    "form": "rayevoir",
+    "aspects": ["rayevoir"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" },
+  "transformations": ["rayevoir_mega"]
+}

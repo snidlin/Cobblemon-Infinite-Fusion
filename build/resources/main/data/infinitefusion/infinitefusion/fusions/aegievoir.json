@@ -1,0 +1,14 @@
+{
+  "id": "gardevoir_to_aegislash",
+  "donor": { "species": "cobblemon:gardevoir" },
+  "host": { "species": "cobblemon:aegislash" },
+  "result": {
+    "species": "cobblemon:aegislash",
+    "form": "aegievoir",
+    "aspects": ["aegievoir"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

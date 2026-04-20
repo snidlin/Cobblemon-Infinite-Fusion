@@ -1,0 +1,28 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 9,
+  "variations": [
+    {
+      "aspects": ["queen"],
+      "poser": "cobblemon:gardevoir_queen",
+      "model": "cobblemon:gardevoir_queen.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/queen/gardevoir_queen.png"
+    },
+    {
+      "aspects": [ "queen", "shiny" ],
+      "model": "cobblemon:gardevoir_queen.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/queen/gardevoir_queen_shiny.png"
+    },
+    {
+      "aspects": ["queen","mega"],
+      "poser": "cobblemon:gardevoir_queen",
+      "model": "cobblemon:gardevoir_queen.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/queen/gardevoir_queen_mega.png"
+    },
+    {
+      "aspects": [ "queen", "shiny","mega"],
+      "model": "cobblemon:gardevoir_queen.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/queen/gardevoir_queen_mega_shiny.png"
+    }
+  ]
+}

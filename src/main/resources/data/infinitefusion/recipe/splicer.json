@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IDI",
+    "RER",
+    "IAN"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "R": { "item": "minecraft:redstone" },
+    "E": { "item": "minecraft:end_rod" },
+    "A": { "item": "minecraft:amethyst_shard" },
+    "N": { "item": "minecraft:netherite_ingot" }
+  },
+  "result": {
+    "id": "infinitefusion:splicer",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "keys": [ "joltevoir" ],
+    "type": "flag",
+    "isAspect": true,
+    "default": false
+  }

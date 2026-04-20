@@ -1,0 +1,14 @@
+{
+  "id": "leafeon_to_gardevoir",
+  "donor": { "species": "cobblemon:leafeon" },
+  "host": { "species": "cobblemon:gardevoir" },
+  "result": {
+    "species": "cobblemon:gardevoir",
+    "form": "leafevoir",
+    "aspects": ["leafevoir"]
+  },
+  "typing": { "mode": "form" },
+  "stats": { "mode": "form" },
+  "abilities": { "mode": "form" },
+  "moves": { "mode": "form" }
+}

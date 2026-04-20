@@ -1,0 +1,75 @@
+{
+  "id": "cobblemon:gardevoir",
+  "speciesId": "cobblemon:gardevoir",
+  "displayAspects": [],
+  "conditionAspects": [],
+  "forms": [
+    {
+      "displayForm": "Normal",
+      "unlockForms": [
+        "Normal"
+      ]
+    },
+    {
+      "displayForm": "Mega",
+      "unlockForms": [
+        "Mega"
+      ]
+    },
+    {
+      "displayForm": "sylvevoir",
+      "unlockForms": [
+      	"sylvevoir"
+      ]
+    },
+    {
+      "displayForm": "umbrevoir",
+      "unlockForms": [
+        "umbrevoir"
+      ]
+    },
+    {
+      "displayForm": "espevoir",
+      "unlockForms": [
+        "espevoir"
+      ]
+    },
+    {
+      "displayForm": "flarevoir",
+      "unlockForms": [
+        "flarevoir"
+      ]
+    },
+    {
+      "displayForm": "vaporevoir",
+      "unlockForms": [
+        "vaporevoir"
+      ]
+    },
+    {
+      "displayForm": "glacevoir",
+      "unlockForms": [
+        "glacevoir"
+      ]
+    },
+    {
+      "displayForm": "leafevoir",
+      "unlockForms": [
+        "leafevoir"
+      ]
+    },
+    {
+      "displayForm": "joltevoir",
+      "unlockForms": [
+        "joltevoir"
+      ]
+    },
+    {
+      "displayForm": "queen",
+      "unlockForms": [
+        "queen"
+      ]
+    }
+  ],
+  "variations": []
+}
